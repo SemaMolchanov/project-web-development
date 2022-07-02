@@ -1,15 +1,15 @@
 # Web development project. SAS GameShop
 
-###### Description:
+#### Description:
 This is a group project for university web development course.
 Aim of the project is to implement online store of videogames.
 
-###### Contributors:
+#### Contributors:
 - Akhmullaev Sultan
 - Daulet Alizhan
 - Molchanov Semen
 
-###### Checked by: 
+#### Checked by: 
 Mukhsimbaev Bobur
 
 
